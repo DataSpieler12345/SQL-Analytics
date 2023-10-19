@@ -1,0 +1,1 @@
+select title from film where title regexp '^(F|D)'
